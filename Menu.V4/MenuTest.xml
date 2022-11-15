@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menus>
+    
+    <plats>
+        <categorie id="Viande">
+            <plat id="steack250">
+                <description>Steack de 250 grammes</description>
+                <prix>15.0</prix>
+            </plat>
+            <plat id="filetporc250">
+                <description>Filet de porc</description>
+                <prix>15.0</prix>
+            </plat>
+        </categorie>
+        <categorie id="Volaille">
+            <plat id="ailepoulet120">
+                <description>Aile de poulet</description>
+                <prix>15.0</prix>
+            </plat>
+            <plat id="cuisseDePoulet">
+                <description>Cuisse de poulet</description>
+                <prix>15.0</prix>
+            </plat>
+        </categorie>
+        <categorie id="Poisson">
+            <plat id="carpe">
+                <description>Carpe de 120g</description>
+                <prix>15.0</prix>
+            </plat>
+            <plat id="truite">
+                <description>Truite belge de 120g</description>
+                <prix>15.0</prix>
+            </plat>
+        </categorie>
+    </plats>
+    
+    <accompagnements>
+        <categorie id="Pommes de terre">
+            <accompagnement id="Frites">
+                <description>de frites</description>
+                <prix>5.0</prix>
+            </accompagnement>
+            <accompagnement id="Pommes de terre">
+                <description>de pommes de terre à la poêle</description>
+                <prix>5.0</prix>
+            </accompagnement>
+        </categorie>
+        <categorie id="Pâtes">
+            <accompagnement id="Fusilly">
+                <description>de fusilly</description>
+                <prix>5.0</prix>
+            </accompagnement>
+            <accompagnement id="Macaroni">
+                <description>de macaroni</description>
+                <prix>5.0</prix>
+            </accompagnement>
+            <accompagnement id="Pennes">
+                <description>de pennes</description>
+                <prix>5.0</prix>
+            </accompagnement>
+        </categorie>
+        <categorie id="Riz">
+            <accompagnement id="Riz de Camargue">
+                <description>de riz de Camargue</description>
+                <prix>5.0</prix>
+            </accompagnement>
+            <accompagnement id="Riz de Thailande">
+                <description>de riz de Thailande</description>
+                <prix>5.0</prix>
+            </accompagnement>
+        </categorie>
+    </accompagnements>
+    
+    <desserts>
+        <categorie id="Fruits">
+            <dessert id="Pommes">
+                <description>des pommes d'Ardennes</description>
+                <prix>10.0</prix>
+            </dessert>
+            <dessert id="Poires">
+                <description>des poires de Gaume</description>
+                <prix>10.0</prix>
+            </dessert>
+        </categorie>
+        <categorie id="Patisseries">
+            <dessert id="Gosette pomme">
+                <description>une gosette à la pomme</description>
+                <prix>10.0</prix>
+            </dessert>
+        </categorie>
+        <categorie id="Pousse-café">
+            <dessert id="Bénédictine">
+                <description>un verre de Bénédictine</description>
+                <prix>10.0</prix>
+            </dessert>
+            <dessert id="Cointreau">
+                <description>un verre de Cointreau</description>
+                <prix>10.0</prix>
+            </dessert>
+            <dessert id="Amaretto">
+                <description>un verre d'Amaretto</description>
+                <prix>10.0</prix>
+            </dessert>
+        </categorie>
+        <categorie id="Glaces">
+            <dessert id="Banana split">
+                <description>un Banana Split (glace vanille, fraise et chocolat)</description>
+                <prix>10.0</prix>
+            </dessert>
+            <dessert id="Dame blanche">
+                <description>de la glace vanille et de la sauce chocolat</description>
+                <prix>10.0</prix>
+            </dessert>
+        </categorie>
+    </desserts>
+    
+</menus>

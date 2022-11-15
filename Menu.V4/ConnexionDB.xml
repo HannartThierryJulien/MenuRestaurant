@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Donnees>
+    <Donneess>
+        <username>root</username>
+        <password>root</password>
+        <connectionUrl>jdbc:mysql://localhost:3306/Hannart_MenuV4</connectionUrl>
+        <driverClassName>com.mysql.cj.jdbc.Driver</driverClassName>
+    </Donneess>
+</Donnees>
